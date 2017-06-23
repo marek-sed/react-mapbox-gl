@@ -65,7 +65,7 @@
   },
   "devDependencies": {
     "@types/core-js": "^0.9.41",
-    "@types/enzyme": "^2.7.9",
+    "@types/enzyme": "^2.8.1",
     "@types/geojson": "^1.0.1",
     "@types/jest": "^20.0.0",
     "@types/mapbox-gl": "^0.38.0",
